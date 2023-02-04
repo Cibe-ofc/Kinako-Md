@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/_pahilz26' 
+global.sig = 'https://instagram.com/lynxofcid' 
 global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
 global.sgh = 'https://github.com/amelcanss/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6287833306677'
-global.stg = 't.me/KenalSayaaa'
+global.sgc = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h'
+global.swa = 'wa.me/6285797375014'
+global.stg = 't.me/'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677'
+global.pdana = 'chatowner'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '087833306677'
-global.ppulsa2 = '0895351308611'
-global.psaweria = 'https://saweria.co/amelcanss'
+global.ppulsa = 'chatowner'
+global.ppulsa2 = 'chatowner'
+global.psaweria = 'chatowner'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042'
-global.nomorown = '6287833306677'
-global.namebot = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯'
-global.nameown = 'Fahil'
+global.nomorbot = '6285797375014'
+global.nomorown = '6285797375014'
+global.namebot = 'ɪᴋʏʙᴏᴛ'
+global.nameown = 'iky'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'Fahil', 'true']
+  ['6285797375014', 'iky', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -93,9 +93,9 @@ global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
-global.asalowner = 'Jatim, Madura'
-global.nomorowner = 'wa.me/6287833306677'
+global.umurowner = '23'
+global.asalowner = 'JB, Mars'
+global.nomorowner = 'wa.me/6285797375014'
 global.pacarowner = 'Kepo luwh dick:v'
 
 /*============== TEXT ==============*/
